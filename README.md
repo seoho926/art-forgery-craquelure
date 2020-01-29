@@ -32,7 +32,7 @@ This project specifically looked at:
 * [Detecting Art Forgery Using Image Classification of Craquelure Patterns.pdf](https://github.com/seoho926/art-forgery-craquelure/blob/master/art%20forgery%20and%20craquelure.pdf)
 
 ### Data
-* Full paintings from which craquelure images were extracted are in [data/Full Paintings](https://github.com/seoho926/art-forgery-craquelure/tree/master/data/Full%20paintings) folder in this repo
+* Full paintings from which craquelure images were extracted are in [data/Full Paintings](https://github.com/seoho926/art-forgery-craquelure/tree/master/data/Full%20paintings) folder in this repo (the actual high resolution images are on the National Gallery of Art website below)
 * Craquelure images used for modeling are available for download as a zipfile in the AWS S3 bucket: [art.forgery.capstone.project](https://s3.console.aws.amazon.com/s3/buckets/art.forgery.capstone.project/?region=us-east-1&tab=overview)
 
 ### Sources
