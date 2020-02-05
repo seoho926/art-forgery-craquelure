@@ -5,7 +5,7 @@ This project is the capstone project for the Flatiron School Data Science Fellow
 The purpose of this project is to use machine learning to help detect art forgeries by classifying craquelure (cracks due to old age) patterns in classical oil paintings.
 
 ## Project Description
-Oil paintings have different craquelure patterns depending on the time period and region they were created. Being able to classify where and/or where a painting is or is not from could add valuable information to determining whether a piece of work is authentic or a fake/forgery.
+Oil paintings have different craquelure patterns depending on the time period and region they were created. Being able to classify when and/or where a painting is or is not from could add valuable information to determining whether a piece of work is authentic or a fake/forgery.
 
 This project specifically looked at:
   * 17th century
