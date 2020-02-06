@@ -28,7 +28,7 @@ This project specifically looked at:
   * Google Cloud
 
 ### Featured Notebooks/Analysis/Deliverables
-* [notebooks/MASTER.ipynb]()
+* [technical_notebook.ipynb](https://github.com/seoho926/art-forgery-craquelure/blob/master/technical_notebook.ipynb)
 * [Detecting Art Forgery Using Image Classification of Craquelure Patterns.pdf](https://github.com/seoho926/art-forgery-craquelure/blob/master/art%20forgery%20and%20craquelure.pdf)
 
 ### Data
