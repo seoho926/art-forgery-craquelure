@@ -29,7 +29,7 @@ This project specifically looked at:
 
 ### Featured Notebooks/Analysis/Deliverables
 * [technical_notebook.ipynb](https://github.com/seoho926/art-forgery-craquelure/blob/master/technical_notebook.ipynb)
-* [Detecting Art Forgery Using Image Classification of Craquelure Patterns.pdf](https://github.com/seoho926/art-forgery-craquelure/blob/master/art%20forgery%20and%20craquelure.pdf)
+* [Detecting Art Forgery Using Image Classification of Craquelure Patterns.pdf](https://github.com/seoho926/art-forgery-craquelure/blob/master/art_forgery_craquelure.pdf)
 
 ### Data
 * Full paintings from which craquelure images were extracted are in [data/Full Paintings](https://github.com/seoho926/art-forgery-craquelure/tree/master/data/Full%20paintings) folder in this repo (the actual high resolution images are on the National Gallery of Art website below)
